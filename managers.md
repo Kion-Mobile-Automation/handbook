@@ -1,4 +1,4 @@
-# Executive, Manager, and Individual Responsibilities
+# Scrummaster, Executive, Manager, and Individual Responsibilities
 
 Basecamp has three tiers of responsibility within our job functions: Executive, Manager, and Individual. Here’s how we break down each level’s duties.
 
